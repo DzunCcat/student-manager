@@ -1,0 +1,8 @@
+# Eclipse特有のファイルを除外
+.classpath
+.project
+.settings/
+
+# ビルド後のバイナリファイルを除外
+/bin/
+*.class
